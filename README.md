@@ -15,11 +15,11 @@
     * Voile
 
 * Langage :computer:
-    * HTML
-    * CSS
-    * JS
-    * PhP
-    * Python
+    * HTML :html:
+    * CSS :css:
+    * JS :js:
+    * PhP :php:
+    * Python :python:
 
 Mon <a href="https://www.linkedin.com/in/pierre-louis-sans-7756b0223/">Linkedin</a>
 
