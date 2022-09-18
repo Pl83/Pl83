@@ -21,6 +21,8 @@
     * PhP
     * Python
 
+https://www.linkedin.com/in/pierre-louis-sans-7756b0223/
+
 :construction: **portfolio on going**
 
 Bonne Visite sur mon profile
