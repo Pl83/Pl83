@@ -3,23 +3,23 @@
 
 >Une vie sans regret est une bonne vie
 
-* Passions
+* Passions :sparkles:
     * Jeux video
     * Lecture 
     * Lego
 
-* Sport 
+* Sport :goal_net:
     * Marche
     * Natation
     * Skie
     * Voile
 
 * Langage :computer:
-    * HTML :html:
-    * CSS :css:
-    * JS :js:
-    * PhP :php:
-    * Python :python:
+    * HTML 
+    * CSS 
+    * JS 
+    * PhP 
+    * Python 
 
 Mon <a href="https://www.linkedin.com/in/pierre-louis-sans-7756b0223/">Linkedin</a>
 
