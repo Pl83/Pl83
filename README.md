@@ -14,7 +14,7 @@
     * Skie
     * Voile
 
-* Langage
+* Langage :computer:
     * HTML
     * CSS
     * JS
