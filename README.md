@@ -21,7 +21,7 @@
     * PhP
     * Python
 
-https://www.linkedin.com/in/pierre-louis-sans-7756b0223/
+Mon <a href="https://www.linkedin.com/in/pierre-louis-sans-7756b0223/">Linkedin</a>
 
 :construction: **portfolio on going**
 
