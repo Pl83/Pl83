@@ -1,12 +1,13 @@
 # Salut !
-## je m'appel **pierre-louis** curieux, positivist et réveur. 
+## je m'appel **pierre-louis** etudiant en A2 a l'IIM. 
 
 >Une vie sans regret est une bonne vie
 
 * Passions :sparkles:
+    * Tech
     * Jeux video
     * Lecture 
-    * Lego
+ 
 
 * Sport :goal_net:
     * Marche
@@ -23,7 +24,6 @@
 
 Mon <a href="https://www.linkedin.com/in/pierre-louis-sans-7756b0223/">Linkedin</a>
 
-:construction: **portfolio on going**
 
 Bonne Visite sur mon profile
 
