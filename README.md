@@ -25,6 +25,8 @@
 Mon <a href="https://www.linkedin.com/in/pierre-louis-sans-7756b0223/">Linkedin</a>
 <br>
 Mon <a href="https://portfolio-pl83.vercel.app">Portfolio</a>
+<br>
+Mon <a href="CV_Pierre-louis_SANS.pdf" download>Portfolio</a>
 
 
 Bonne Visite sur mon profile
