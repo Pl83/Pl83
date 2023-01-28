@@ -3,6 +3,13 @@
 
 >Une vie sans regret est une bonne vie
 
+* Langage :computer:
+    * HTML 
+    * CSS 
+    * JS 
+    * PhP 
+    * Python 
+
 * Passions :sparkles:
     * Tech
     * Jeux video
@@ -15,12 +22,7 @@
     * Skie
     * Voile
 
-* Langage :computer:
-    * HTML 
-    * CSS 
-    * JS 
-    * PhP 
-    * Python 
+
 
 Mon <a href="https://www.linkedin.com/in/pierre-louis-sans-7756b0223/">Linkedin</a>
 <br>
