@@ -1,5 +1,5 @@
 # Salut !
-## je m'appel **pierre-louis** etudiant en A2 a l'IIM. 
+## je m'appelle **pierre-louis** etudiant en A2 a l'IIM. 
 
 >Une vie sans regret est une bonne vie
 
