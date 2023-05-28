@@ -1,7 +1,7 @@
 # Welcome on my profile
 
 ## About me 
-I'm a 20 years old french students in web development. 
+I'm a 20 years old French student in web development.
 I enjoie Coding, IA, wander in nature and reading. 
 As a result of my versatility, I can quickly adapt and learn new tools.
 
