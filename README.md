@@ -1,19 +1,19 @@
-# Welcome on my profile
+# Welcome to my profile
 
 ## About me :
 I'm a 20 years old French student in web development.
 I enjoy Coding, IA, hiking and reading. 
 As a result of my versatility, I can quickly adapt and learn new tools.
 
->Une vie sans regret est une bonne vie
+>living life without regret is a good way to live
 
 ## Skills : 
-I have some coding skills from the basic Html, Css, Js etc.. to more advance tech like Node.js, Docker, Symphony, MongoDb etc...
+I have some coding skills in basic Html, Css, Js etc.. and i also have more advance skills like Node.js, Docker, Symphony, MongoDb etc...
 Also, I work on my soft skill like agile method, collective intelligence, design thinking etc....
-You will discover me even more skill when we will work together.
+I have lots additional skills that will become more evident as we work together. 
 
 ## Open To Work :
-Looking forward your message at -> pierre-louis.sans@edu.devinci.fr
+Looking forward to hearing from you at -> pierre-louis.sans@edu.devinci.fr or +33 06 44 72 50 34 
 
 ## Usefull link : 
   <ul>
@@ -24,4 +24,4 @@ Looking forward your message at -> pierre-louis.sans@edu.devinci.fr
   </ul>
 
 
-~~May the force be with you~~
+May the force be with you
