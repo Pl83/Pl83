@@ -1,4 +1,5 @@
 <h1 align="left">Welcome to my profile !</h1>
+<br>
 
 ###
 
@@ -72,7 +73,7 @@
 
 ###
 
-<h2 align="left">a nice counter :</h2>
+<h2 align="left">A nice counter :</h2>
 
 ###
 
