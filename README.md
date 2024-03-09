@@ -50,7 +50,7 @@
 
 ###
 
-<h2 align="left">Additional infos</h2>
+<h2 align="left">Additional infos :</h2>
 
 ###
 
@@ -69,6 +69,10 @@
     <img src="https://raw.githubusercontent.com/Pl83/PortfolioV2/main/img/logoperso.png" width="52" height="40" alt="logo perso" />
   </a>
 </div>
+
+###
+
+<h2 align="left">a nice counter :</h2>
 
 ###
 
