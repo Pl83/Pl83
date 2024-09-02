@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">I'm a 20 years old French student in web development.<br>I enjoy Coding, IA, hiking and reading. <br>As a result of my versatility, I can quickly adapt and learn new tools.<br></p>
+<p align="left">I'm a 21 years old French student in web development. Currently in interchip at To Web Or Not To Web for my master in WEB AND MOBILE ENGINEERING.<br>I enjoy Coding, IA, hiking and reading. <br>I'm naturaly currious and enjoy to learn new tech&tool<br></p>
 
 >Living life without regrets is a good way to live
 
