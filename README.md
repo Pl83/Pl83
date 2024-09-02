@@ -55,7 +55,7 @@
 
 ###
 
-<p align="left">I'm currently looking for an internship. If you're interested, you can contact me on linkedin or by e-mail at pierre-louis.sans@edu.devinci.fr </p>
+<p align="left">If you want, you can contact me on linkedin or by e-mail at pierre-louis.sans@edu.devinci.fr </p>
 
 ###
 
