@@ -66,9 +66,6 @@
   <a href="https://codepen.io/zorgos" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
   </a>
-  <a href="https://pl83.github.io/PortfolioV2/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Pl83/PortfolioV2/main/img/logoperso.png" width="52" height="40" alt="logo perso" />
-  </a>
 </div>
 
 ###
