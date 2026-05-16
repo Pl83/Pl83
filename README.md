@@ -1,81 +1,41 @@
-<h1 align="left">Welcome to my profile !</h1>
-<br>
+# Pierre-Louis
 
-###
+**Full-stack developer · Paris, France**
 
-<h2 align="left">About me :</h2>
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)](https://www.typescriptlang.org/)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat-square)](https://angular.dev/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white&style=flat-square)](https://vuejs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)](https://nodejs.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)](https://www.docker.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)](https://www.mongodb.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)](https://www.mysql.com/)
+[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white&style=flat-square)](https://supabase.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)](https://www.python.org/)
 
-###
+---
 
-<p align="left">I'm a 21 years old French student in web development. Currently in interchip at To Web Or Not To Web for my master in WEB AND MOBILE ENGINEERING.<br>I enjoy Coding, IA, hiking and reading. <br>I'm naturaly currious and enjoy to learn new tech&tool<br></p>
+## About
 
->Living life without regrets is a good way to live
+Full-stack developer based in Paris, building web & mobile products at the enterprise level. I enjoy crafting clean, well-structured applications and continuously picking up new tools along the way. Outside of code, you'll find me on a hiking trail or deep in a book.
 
-###
+## Currently
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PL83&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+- 🏢 Working as a full-stack developer in an enterprise environment
+- 🌐 Building web & mobile applications
+- ⚙️ Working with CI/CD pipelines and agile teams
+- 📚 Always learning something new
 
-###
+## GitHub Stats
 
-<h2 align="left">Skills :</h2>
+<p align="left">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=PL83&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2" alt="Top languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=PL83&hide_title=true&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true" alt="GitHub stats" />
+</p>
 
-###
+---
 
-<p align="left">I have some coding skills in basic Html, Css, Js etc.. and i also have more advanced skills like Node.js, Docker, Symphony, MongoDb etc...<br>Also, I work on my soft skills like agile method, collective intelligence, design thinking etc....<br>I have lots of additional skills that will become more evident as we work together.</p>
+## Let's connect
 
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=symfony" height="40" alt="symfony logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-</div>
-
-###
-
-<h2 align="left">Additional infos :</h2>
-
-###
-
-<p align="left">If you want, you can contact me on linkedin or by e-mail at pierre-louis.sans@edu.devinci.fr </p>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/pierre-louis-sans-7756b0223/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://codepen.io/zorgos" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
-  </a>
-</div>
-
-###
-
-<h2 align="left">A nice counter :</h2>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/PL83/count.svg?"  />
-</div>
-
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/pierre-louis-sans-7756b0223/)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?logo=codepen&logoColor=white&style=flat-square)](https://codepen.io/zorgos)
