@@ -26,12 +26,6 @@ Full-stack developer based in Paris, building web & mobile products at the enter
 - ⚙️ Working with CI/CD pipelines and agile teams
 - 📚 Always learning something new
 
-## GitHub Stats
-
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=PL83&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2" alt="Top languages" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=PL83&hide_title=true&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true" alt="GitHub stats" />
-</p>
 
 ---
 
